@@ -27,7 +27,9 @@ npm i
 To use the appplication, use the following command: 
 
 ~~~
-The user will need to login to mysql on their machine and run source db/schema. Then they will need to seed the database via npm run seed.
+First, the user will need to rename the .envEXAMPLE file and include appropriate login info.
+The user will need to login to mysql on their machine and run source db/schema. 
+Then they will need to seed the database via npm run seed.
 ~~~
 
 ## License
