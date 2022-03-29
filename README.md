@@ -52,7 +52,7 @@ none
 For any questions regarding the repo or application, please contact me at jacobllewis@outlook.com. I do have additional projects on display at https://github.com/JLewis1995/.
 
 
-https://github.com/JLewis1995/E-Commerce_Back_End
+https://github.com/JLewis1995/Swifty_E-Commerce_Back_End
 
 https://youtu.be/0X8_KLD3uI8
 
